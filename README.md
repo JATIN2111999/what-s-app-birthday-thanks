@@ -19,5 +19,5 @@ python birthday_thanks.py
 
 * so using selenium and gcp api we can pull data from gsheet and gdocs to access data from client account and pass/format a message according to user needs
 
-[here is an exam of the implementation](https://github.com/JATIN2111999/Selenium_web.whatsapp_automation/tree/master/client_work_selenium_webwhatsapp_automation)
+[here is an exam of the implementation](https://github.com/JATIN2111999/Selenium_web.whatsapp_automation/tree/master/client_work_selenium_webwhatsapp_automation/main.py)
 
